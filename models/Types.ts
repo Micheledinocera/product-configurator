@@ -1,0 +1,1 @@
+export type HeadphoneMaterial = "cushion"|"base"
