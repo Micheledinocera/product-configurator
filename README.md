@@ -1,6 +1,6 @@
 ## Project Deploy
 
-The project is deployed with github pages at https://micheledinocera.github.io/flipping-cards/
+The project is deployed with github pages at https://micheledinocera.github.io/product-configurator/
 
 # Nuxt 3 Minimal Starter
 
